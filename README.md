@@ -1,5 +1,5 @@
 # Hello! Welcome to my GitHub profile
-I'm Enrico, 19 years old, and currently a student at the Federal Institute of Mato Grosso do Sul (IFMS), pursuing a degree in **Web Systems Development**. My passion for technology started back in high school, and since then, I've been dedicating myself to learning and exploring new areas in the tech world.
+I'm Enrico, 19 years old, and currently a student at the Instituto Federal de Mato Grosso do Sul (IFMS), pursuing a degree in **Web Systems Development**. My passion for technology started back in high school, and since then, I've been dedicating myself to learning and exploring new areas in the tech world.
 
 ## ✨ About Me
 - 💡 Always looking for new challenges and learning opportunities.
